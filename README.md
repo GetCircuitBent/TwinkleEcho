@@ -10,4 +10,7 @@ This module is intended to be very simple and small so it can be worked into key
 * Resistor to Filter Control (R5) adjusts sweep value. Default is set for very large cutoff for dealing with high input, heavily distorted signals. Increase the value of this resistor to reduce the sweep for better control in low signal/clean applications.
 * Resistor to Echo Control (R1) can be 1k if it saves you buying another resistor value, but I think 2k is a bit nicer if you have them already.
 
+## Demo:
+https://youtu.be/kHf7WUVE1LU
+
 #### Not required or expected by any means, but if you like it you can use the Sponsor button to buy me a beer!
