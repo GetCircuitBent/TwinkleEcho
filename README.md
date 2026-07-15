@@ -27,3 +27,8 @@ This module is intended to be very simple and small so it can be worked into key
 https://youtu.be/kHf7WUVE1LU
 
 #### Not required or expected by any means, but if you like it you can use the Sponsor button to buy me a beer!
+
+
+---
+
+Copyright (C) 2021 Get Circuit Bent LLC. Licensed under the [GNU General Public License v3.0](LICENSE). Contact: info@getcircuitbent.com
